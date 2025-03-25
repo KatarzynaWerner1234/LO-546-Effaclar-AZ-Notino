@@ -1,0 +1,306 @@
+{
+    "keys": [
+        "la-roche-posay/effaclar-a-z-gel-cream-krem-zel-przeciw-niedoskonalosciom-skory-tradzikowej/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Effaclar A.Z.",
+    "rpc": "LRP06838",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Effaclar A.Z.",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-01.jpg",
+                                "element": "img",
+                                "alt": "Effaclair a.z. żel-krem. Przełomowe podwójne działanie: 1. objawy trądziku dorosłych, 2. skuteczność anty-aging",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-01-mobile.jpg",
+                                "element": "img",
+                                "alt": "Effaclair a.z. żel-krem. Przełomowe podwójne działanie: 1. objawy trądziku dorosłych, 2. skuteczność anty-aging",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "ODKRYJ bestsettery la roche-posay",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginBottom": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "10px",
+                            "marginBottom": "15px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsFour",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "żel-krem o podwójnym działaniu",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "Product-01.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "żel oczyszczający przeciw niedoskonałościom",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "Product-02.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "serum przeciw niedoskonałościom",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "Product-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourTitle",
+                                "value": "krem o potrójnym działaniu przeciw niedoskonałościom",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "18px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "700",
+                                    "marginTop": "10px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourAsset",
+                                "value": "Product-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-02.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-02-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-03.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "Baner-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
